@@ -4,7 +4,9 @@ defined('BASEPATH') or exit('No direct script access allowed');
 /**
  * constant for title tab bar broswer
  */
-define('TITLE', 'Nahdlatut Tujjar');
+define('TITLE', 'Milky Love Samarinda');
+define('BG_COLOR', 'success');
+
 
 /*
 |--------------------------------------------------------------------------
